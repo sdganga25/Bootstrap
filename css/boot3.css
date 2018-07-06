@@ -1,0 +1,15 @@
+body{
+    background-color:black;
+}
+li{
+    margin-left: 100px;
+}
+.surprise a{
+font-family: 'Times New Roman', Times, serif;
+color:red;
+}
+
+img{
+    border-style: inset;
+    border: 50px,red;
+}
